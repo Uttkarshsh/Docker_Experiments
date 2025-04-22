@@ -15,7 +15,7 @@ This repository contains a **Docker setup** for running a **MySQL container** wi
 
 ### 1⃣ Clone the Repository & Navigate to the Directory  
 ```sh
-git clone https://github.com/Aditya5757raj/Docker_Practices.git
+git clone https://github.com/Uttkarshsh/Docker_Experiments/
 cd Docker_Practices
 ```
 
@@ -71,7 +71,7 @@ Docker_Practices/
 - The **root password** is set to `root` (change this in production for security).  
 
 ## 🔗 Repository Link  
-🔗 **GitHub:** [Aditya5757raj/Docker_Practices](https://github.com/Aditya5757raj/Docker_Practices)  
+🔗 **GitHub:**  https://github.com/Uttkarshsh/Docker_Experiments
 
 ---
 
