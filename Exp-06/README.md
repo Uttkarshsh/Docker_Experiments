@@ -86,10 +86,11 @@ This experiment highlights Docker's networking capabilities, demonstrating inter
 ## 📸 Docker Network Connectivity Test
 Here is a screenshot of the experiment in action:
 
-![Docker Ping Test](docker-ping-test.jpg)
+![Docker Ping Test]![Image](https://github.com/user-attachments/assets/24a3d341-554e-4ac8-839b-53ad3d58a758)
+
 
 ✅ The above image shows successful container communication via ping.
 ---
 
 ## 📢 Author
-👤 [Aditya Raj](https://github.com/Aditya5757raj)
+👤 [Uttkarsh Sharma](https://github.com/Uttkarshsh)
