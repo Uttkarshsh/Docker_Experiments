@@ -48,7 +48,7 @@ Follow the steps below to get the app up and running in your local environment.
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Aditya5757raj/Docker_Practices.git
+https://github.com/Uttkarshsh/Docker_Experiments
 cd Docker_Practices/Exp-2
 ```
 
