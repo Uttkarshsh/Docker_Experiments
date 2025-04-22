@@ -141,5 +141,6 @@ By using **Minikube with Docker**, you can easily run Kubernetes locally without
 )
 
 - **Browser View:**
-![Nginx Browser View](browser.jpg)
+![Nginx Browser View]![browser](https://github.com/user-attachments/assets/1c5fe3ed-c432-470e-b5ae-b7c76ecfe37a)
+
 
