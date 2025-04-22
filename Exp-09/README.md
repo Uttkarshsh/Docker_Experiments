@@ -136,7 +136,8 @@ By using **Minikube with Docker**, you can easily run Kubernetes locally without
 ## 📸 Example Output
 
 - **Terminal Output:**
-![Minikube Terminal Output](![image](https://github.com/user-attachments/assets/2ca893a5-be6c-466b-90e7-f11eceaaf3c0)
+![Minikube Terminal Output]![image](https://github.com/user-attachments/assets/f599a8f2-55fd-4ea3-a64d-3c281bc6e37a)
+
 )
 
 - **Browser View:**
