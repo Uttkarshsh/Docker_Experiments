@@ -80,7 +80,7 @@ sudo docker stop <container-id>
 ```
 
 ### 📸 Application Running Screenshot  
-![Application Running](Image.jpg)  
+![Application Running](Image.jpg) 
 
 ---
 
