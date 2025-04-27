@@ -40,8 +40,8 @@ Make sure you have the following installed:
 🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-08)**  
 🔹 **[EXP-9: Minikube with Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-09)**  
 🔹 **[EXP-10: Docker Bake](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-10)**  
-🔹 **[EXP-11: Bakery Foundation Example on Windows 🍞](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-11)**  
-🔹 **[EXP-12: Titanic Survival Prediction 🍞](https://github.com/Uttkarshsh/Docker_Experiments/tree/main/Exp-12)**  
+🔹 **[EXP-11: Bakery Foundation Example on Windows ](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-11)**  
+🔹 **[EXP-12: Titanic Survival Prediction ](https://github.com/Uttkarshsh/Docker_Experiments/tree/main/Exp-12)**  
 
 ---
 
