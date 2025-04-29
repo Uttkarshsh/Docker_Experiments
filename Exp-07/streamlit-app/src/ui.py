@@ -36,7 +36,17 @@ def set_page_container_style() -> None:
 def display_sidebar_header() -> None:
 
     # Logo
-    logo = Image.open("static/logo.png")
+    # Resolve absolute path to static/logo.png
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    logo_path = os.path.join(base_dir, '..', 'static', 'logo.png')
+    logo_path = os.path.normpath(logo_path)
+
+    try:
+        logo = Image.open(logo_path)
+    except FileNotFoundError:
+        st.sidebar.warning("⚠️ Logo not found at 'static/logo.png'. Please check path or file.")
+        logo = None
+
     with st.sidebar:
         st.image(logo, use_column_width=True)
         col1, col2 = st.columns(2)

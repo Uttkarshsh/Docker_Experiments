@@ -9,4 +9,3 @@
     ```
 2. Open notebook `bicycle_demand_monitoring.ipynb`
 3. Run all cells
-

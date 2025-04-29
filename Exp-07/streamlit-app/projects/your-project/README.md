@@ -21,4 +21,3 @@ project-name/
             model_performance.html
             ...
 ```
-
