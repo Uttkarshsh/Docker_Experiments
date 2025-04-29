@@ -32,7 +32,8 @@ Once the container is running, open **http://localhost:8501** in your browser to
 ## 📸 Result
 Below is the output of the Streamlit dashboard:
 
-![Result](image.png)
+![image](https://github.com/user-attachments/assets/01b08fb7-6257-47ff-b84f-38ec4febf2b9)
+
 
 ---
 🌟 *Don't forget to star ⭐ the repo if you find it helpful!*
