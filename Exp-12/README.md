@@ -112,7 +112,8 @@ docker rmi titanic-prediction
 
 ![Terminal Output](image11.jpg)
 
-![Running Streamlit App](image2.jpg)
+![Running Streamlit App](![Uploading image.png…]()
+)
 
 ---
 
