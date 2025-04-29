@@ -30,18 +30,18 @@ Make sure you have the following installed:
 
 ## 🚀 Projects & Experiments  
 
-🔹 **[EXP-1: Streamlit Spiral Visualization](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-01)**  
-🔹 **[EXP-2: Binary Classification WebApp](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-02)**  
-🔹 **[EXP-3: Python Logging with Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-03)**  
-🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-04)**  
-🔹 **[EXP-5: MySQL Docker Container](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-05)**  
-🔹 **[EXP-6: Docker Network Experiment](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-06)**  
-🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-07)**  
-🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-08)**  
-🔹 **[EXP-9: Minikube with Docker](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-09)**  
-🔹 **[EXP-10: Docker Bake](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-10)**  
-🔹 **[EXP-11: Bakery Foundation Example on Windows ](https://github.com/Aditya5757raj/Docker_Practices/tree/main/Exp-11)**  
-🔹 **[EXP-12: Titanic Survival Prediction ](https://github.com/Uttkarshsh/Docker_Experiments/tree/main/Exp-12)**  
+🔹 **[EXP-1: Streamlit Spiral Visualization](https://github.com/Uttkarshsh/Docker_Experiments/tree/main/Exp-01)**  
+🔹 **[EXP-2: Binary Classification WebApp](https://github.com/Uttkarshsh/Docker_Experiments/tree/main/Exp-02)**  
+🔹 **[EXP-3: Python Logging with Docker](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-03)**  
+🔹 **[EXP-4: Streamlit + PostgreSQL](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-04)**  
+🔹 **[EXP-5: MySQL Docker Container](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-05)**  
+🔹 **[EXP-6: Docker Network Experiment](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-06)**  
+🔹 **[EXP-7: ML Model Deployment with Evidently](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-07)**  
+🔹 **[EXP-8: Deploying on AWS EC2](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-08)**  
+🔹 **[EXP-9: Minikube with Docker](https://github.com/Aditya5757raj/Uttkarshsh/tree/main/Exp-09)**  
+🔹 **[EXP-10: Docker Bake](https://github.com/Aditya5757raj/Uttkarshsh/tree/main/Exp-10)**  
+🔹 **[EXP-11: Bakery Foundation Example on Windows ](https://github.com/Uttkarshsh/Docker_Practices/tree/main/Exp-11)**  
+🔹 **[EXP-12: Titanic Survival Prediction ](https://github.com/Uttkarshsh/Uttkarshsh/tree/main/Exp-12)**  
 
 ---
 
