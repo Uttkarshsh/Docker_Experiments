@@ -3,7 +3,10 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load('titanic_model.pkl')
+import os
+model_path = os.path.join(os.path.dirname(__file__), 'titanic_model.pkl')
+model = joblib.load(model_path)
+
 
 # Set Streamlit Page Config (MUST be the first command)
 st.set_page_config(page_title="Titanic Survival Prediction", layout="wide")
@@ -59,4 +62,3 @@ if st.button("Predict Survival"):
 
         except Exception as e:
             st.error(f"⚠️ Prediction Error: {e}")
-
