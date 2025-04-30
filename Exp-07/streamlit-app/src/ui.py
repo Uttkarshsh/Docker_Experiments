@@ -48,20 +48,21 @@ def display_sidebar_header() -> None:
         logo = None
 
     with st.sidebar:
-        st.image(logo, use_column_width=True)
+        st.image(logo, use_container_width=True)
         col1, col2 = st.columns(2)
         repo_link: Text = (
             "https://github.com/mnrozhkov/evidently/tree/main/examples/integrations"
         )
         evidently_docs: Text = "https://docs.evidentlyai.com/"
         col1.markdown(
-            f"<a style='display: block; text-align: center;' href={repo_link}>Source code</a>",
+            f"<a style='display: block; text-align: center;' href=\"{repo_link}\">Source code</a>",
             unsafe_allow_html=True,
         )
         col2.markdown(
-            f"<a style='display: block; text-align: center;' href={evidently_docs}>Evidently docs</a>",
+            f"<a style='display: block; text-align: center;' href=\"{evidently_docs}\">Evidently docs</a>",
             unsafe_allow_html=True,
         )
+
         st.header("")  # add space between logo and selectors
 
 
